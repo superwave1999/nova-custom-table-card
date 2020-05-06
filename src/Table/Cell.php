@@ -1,8 +1,8 @@
 <?php
 
-namespace Mako\CustomTableCard\Table;
+namespace Superwave1999\CustomTableCard\Table;
 
-use Mako\CustomTableCard\ToArrayInterface;
+use Superwave1999\CustomTableCard\ToArrayInterface;
 
 class Cell implements ToArrayInterface
 {
