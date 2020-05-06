@@ -1,6 +1,6 @@
 <?php
 
-namespace Mako\CustomTableCard;
+namespace Superwave1999\CustomTableCard;
 
 interface ToArrayInterface
 {

@@ -1,1 +1,20 @@
 // Nova Card CSS
+.card-col-success {
+  background-color: var(--success-light);
+}
+
+.card-col-warning {
+  background-color: var(--warning-light);
+}
+
+.card-col-error {
+  background-color: var(--danger-light);
+}
+
+.card-col-info {
+  background-color: var(--info-light);
+}
+
+.card-col-waiting {
+  background-color: #cdeeeb;
+}

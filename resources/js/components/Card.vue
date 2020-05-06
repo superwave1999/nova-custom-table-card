@@ -14,7 +14,7 @@
               </tr>
             </thead>
             <tbody>
-              <tr v-for="row in rows">
+              <tr v-for="row in rows" :class="row.class">
                 <td v-for="column in row.columns" :class="column.class" :id="column.id" v-html="column.data"></td>
                 <td class="td-fit text-right pr-6">
                   <span v-if="row.view">
